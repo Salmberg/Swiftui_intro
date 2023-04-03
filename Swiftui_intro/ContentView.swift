@@ -87,7 +87,7 @@ struct ContentView: View {
                 Color(red: 38/256, green: 108/256, blue: 59/256)
                     .ignoresSafeArea()
                 VStack {
-                    Text("Bust")
+                    Text("Bust!")
                         .foregroundColor(.white)
                         .font(.title)
                     Text("\(sum)")
